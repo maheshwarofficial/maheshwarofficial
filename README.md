@@ -75,3 +75,6 @@
     <sub><i>Building fast, zero-cost software systems, offline AI pipelines & modern digital products.</i></sub>
   </p>
 </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E293B,100:0284C7&height=120&section=header&text=MAHESHWAR%20KUMAR&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Software%20Developer%20%E2%80%A2%20AI%20%26%20Prompt%20Engineer%20(100%2B%20Tools)%20%E2%80%A2%20UI%2FUX%20Creator&descAlignY=72&descSize=13" width="100%" />
+</div>
