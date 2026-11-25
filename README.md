@@ -1,8 +1,3 @@
-<!-- ==================== COMPACT HEADER BANNER ==================== -->
-<div align="center">
-  <img src="https://mrmaheshwar.vercel.app/>
-</div>
-
 <!-- ==================== TYPING TAGLINE ==================== -->
 <div align="center">
   <a href="https://mrmaheshwar.vercel.app">
