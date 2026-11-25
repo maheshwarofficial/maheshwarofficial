@@ -64,8 +64,14 @@
 
 </div>
 
----
 <div align="center">
-  <h1>Maheshwar Kumar</h1>
-  <p><b>Software Developer • AI & Prompt Engineer (100+ Tools) • UI/UX & Media Creator</b></p>
+  <h1>MAHESHWAR KUMAR</h1>
+  <p>
+    <code>Software & Web Developer</code> &nbsp;•&nbsp;
+    <code>AI & Prompt Engineer (100+ Tools)</code> &nbsp;•&nbsp;
+    <code>UI/UX & Media Creator</code>
+  </p>
+  <p>
+    <sub><i>Building fast, zero-cost software systems, offline AI pipelines & modern digital products.</i></sub>
+  </p>
 </div>
