@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="./Behance%20Profile%20Banner.png" width="100%" alt="Maheshwar Kumar Banner" />
+</div>
+
+<br/>
 <!-- ==================== TYPING TAGLINE ==================== -->
 <div align="center">
   <a href="https://mrmaheshwar.vercel.app">
