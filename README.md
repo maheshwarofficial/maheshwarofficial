@@ -65,17 +65,6 @@
 </div>
 
 <div align="center">
-  <h1>MAHESHWAR KUMAR</h1>
-  <p>
-    <code>Software & Web Developer</code> &nbsp;•&nbsp;
-    <code>AI & Prompt Engineer (100+ Tools)</code> &nbsp;•&nbsp;
-    <code>UI/UX & Media Creator</code>
-  </p>
-  <p>
-    <sub><i>Building fast, zero-cost software systems, offline AI pipelines & modern digital products.</i></sub>
-  </p>
-</div>
-<div align="center">
   <h1>Maheshwar Kumar</h1>
   <a href="https://mrmaheshwar.vercel.app">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&duration=2800&pause=900&color=0284C7&center=true&vCenter=true&width=680&height=30&lines=Software+%26+Web+Developer+%E2%80%A2+UI%2FUX+%26+Media+Creator;AI+%26+Prompt+Engineer+(100%2B+Tools+Mastered);Zero-Cost+Industrial+Automation+%26+Offline+AI+Builder" alt="Typing SVG" />
