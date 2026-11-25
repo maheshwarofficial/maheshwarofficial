@@ -65,9 +65,7 @@
 </div>
 
 ---
-
-<!-- ==================== GITHUB STATS ==================== -->
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maheshwarofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshwarofficial&theme=tokyonight&hide_border=true&background=0D1117" />
+  <h1>Maheshwar Kumar</h1>
+  <p><b>Software Developer • AI & Prompt Engineer (100+ Tools) • UI/UX & Media Creator</b></p>
 </div>
