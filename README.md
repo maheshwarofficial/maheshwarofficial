@@ -1,6 +1,6 @@
 <!-- ==================== COMPACT HEADER BANNER ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:0F172A,100:0284C7&height=165&section=header&text=Maheshwar%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20100%2B%20AI%20Tools%20%26%20Prompt%20Engg.%20%7C%20Creative%20Designer&descAlignY=66&descSize=15" width="100%" />
+  <img src="https://mrmaheshwar.vercel.app/api?type=waving&color=0:090D16,50:0F172A,100:0284C7&height=165&section=header&text=Maheshwar%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20100%2B%20AI%20Tools%20%26%20Prompt%20Engg.%20%7C%20Creative%20Designer&descAlignY=66&descSize=15" width="100%" />
 </div>
 
 <!-- ==================== TYPING TAGLINE ==================== -->
