@@ -76,5 +76,8 @@
   </p>
 </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E293B,100:0284C7&height=120&section=header&text=MAHESHWAR%20KUMAR&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=Software%20Developer%20%E2%80%A2%20AI%20%26%20Prompt%20Engineer%20(100%2B%20Tools)%20%E2%80%A2%20UI%2FUX%20Creator&descAlignY=72&descSize=13" width="100%" />
+  <h1>Maheshwar Kumar</h1>
+  <a href="https://mrmaheshwar.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&duration=2800&pause=900&color=0284C7&center=true&vCenter=true&width=680&height=30&lines=Software+%26+Web+Developer+%E2%80%A2+UI%2FUX+%26+Media+Creator;AI+%26+Prompt+Engineer+(100%2B+Tools+Mastered);Zero-Cost+Industrial+Automation+%26+Offline+AI+Builder" alt="Typing SVG" />
+  </a>
 </div>
