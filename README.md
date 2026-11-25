@@ -1,56 +1,75 @@
+<!-- Animated Top Banner -->
 <div align="center">
-  <h1>Hi, I'm Maheshwar Kumar 👋</h1>
-  <h3>Industrial Software Developer | Python • Web Apps • Offline AI • Digitalization</h3>
-  <p>Turning complex shop-floor, logistics, and everyday bottlenecks into fast, zero-cost software systems.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0284C7&height=200&section=header&text=Maheshwar%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Industrial%20Software%20Architect%20%7C%20Automation%20%26%20Offline%20AI&descAlignY=62&descSize=18" width="100%" />
+</div>
 
-  <p>
-    <a href="https://anumamywife.github.io/mr.maheshwarofficial/">
-      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-0F172A?style=for-the-badge&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:YOUR-EMAIL@example.com">
-      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
+<!-- Animated Typing Tagline -->
+<div align="center">
+  <a href="https://maheshwarofficial.github.io/mr.maheshwarofficial/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Zero-Cost%2C+High-Impact+Industrial+Software;Python+Desktop+Systems+%E2%80%A2+Real-Time+GPS+Apps+%E2%80%A2+Offline+AI;Turning+Shop-Floor+%26+Logistics+Bottlenecks+into+Clean+Code" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Action Buttons -->
+<div align="center">
+  <a href="https://maheshwarofficial.github.io/mr.maheshwarofficial/">
+    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-0F172A?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-### 🚀 About Me
-- 🛠️ I design and ship **end-to-end software systems**—from Windows desktop tools and LAN databases to real-time GPS web/Android apps.
-- 🤖 Currently exploring **offline open-source AI** (NLLB-200, local LLMs) and industrial automation pipelines.
-- 🎯 Focused on **clean UI, Poka-Yoke workflows, and regional language accessibility** for real-world users.
+### ⚡ Engineering Focus & Impact
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎯 What I Build</h4>
+      <ul>
+        <li><b>Desktop & LAN Systems:</b> High-speed Python + SQLite tools with Poka-Yoke workflows & audit logs.</li>
+        <li><b>Real-Time Web & Mobile:</b> Live GPS fleet tracking & bilingual apps using JS, Firebase & Capacitor.</li>
+        <li><b>Offline AI Pipelines:</b> Local LLM & NLLB-200 automation for multilingual document processing.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 Key Outcomes</h4>
+      <ul>
+        <li><b>~85% Faster</b> quality data entry by replacing manual Excel logs with barcode-driven apps.</li>
+        <li><b>15–20 Hrs/Week Saved</b> via automated 5-language technical SOP translation pipelines.</li>
+        <li><b>11 Live Routes</b> tracked in real time with voice alerts, OSRM routing & eco-analytics.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💻 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 🏆 Featured Systems Built
-| Project | What It Solves | Core Stack |
-| :--- | :--- | :--- |
-| **Live Fleet & Bus Tracker** | Real-time GPS tracking across 11 routes with OSRM routing, voice alerts & eco-analytics | JS, Firebase, Capacitor |
-| **Quality Digitalization Portal** | Desktop & LAN IQC system with barcode Poka-Yoke & Pareto dashboards (~85% faster entry) | Python, SQLite, PyWebView |
-| **Multilingual SOP AI Pipeline** | Offline AI translation of technical SOPs into 5 languages with automated PDF formatting | Python, Meta NLLB-200 |
-| **Anuma Academy Study App** | Bilingual (EN/Hindi) mobile learning platform with mock tests, audio & AI tutor | HTML/CSS/JS, Firebase |
-
----
-
-### 📊 GitHub Activity
+### 🛠️ Tech Stack & Architecture
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=anumamywife&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anumamywife&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,sqlite,firebase,git,github,vscode,androidstudio&theme=dark" />
+</div>
+
+---
+
+### 🏆 Featured Production Systems
+| System | Core Problem Solved | Architecture |
+| :--- | :--- | :--- |
+| **Live Fleet & Bus Tracker** | Real-time GPS tracking across 11 routes with OSRM routing, proximity voice alarms & CO₂ analytics | `JS` `Firebase` `Capacitor` |
+| **Quality Digitalization Portal** | Standalone LAN IQC system with 4-in-1 barcode Poka-Yoke, PIN sign-off & live Pareto charts | `Python` `SQLite` `PyWebView` |
+| **Multilingual SOP AI Engine** | Offline AI translation of complex XML/Excel SOPs into 5 languages with auto A4 PDF export | `Python` `NLLB-200` `XML` |
+| **Anuma Academy Study App** | Bilingual (EN/Hindi) mobile learning platform with mock tests, audio chapters & AI tutor | `HTML/CSS/JS` `Firebase` |
+
+---
+
+### 📊 Live GitHub Telemetry
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maheshwarofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshwarofficial&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
