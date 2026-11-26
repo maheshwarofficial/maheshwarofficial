@@ -1,3 +1,62 @@
-<svg fill="none" viewBox="0 0 840 310" width="840" height="310" xmlns="http://www.w3.org/2000/svg">
+<svg width="840" height="250" viewBox="0 0 840 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="840" y2="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0B1120" />
+      <stop offset="60%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#172554" />
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="360" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0" y1="0" x2="840" y2="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.45" />
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0.25" />
+    </linearGradient>
+  </defs>
+
   
-    
+  <rect x="1" y="1" width="838" height="248" rx="18" fill="url(#bg)" stroke="url(#borderGrad)" stroke-width="1.5" />
+
+  
+  <circle cx="760" cy="40" r="110" fill="#0EA5E9" fill-opacity="0.08" />
+  <circle cx="80" cy="220" r="90" fill="#6366F1" fill-opacity="0.08" />
+
+  
+  <text x="34" y="58" fill="url(#nameGrad)" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="32" font-weight="800" letter-spacing="-0.5">Maheshwar Kumar</text>
+  <text x="34" y="84" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="13.5" font-weight="500">Full-Stack Developer  •  AI &amp; Prompt Engineer  •  UI/UX &amp; Video Creator</text>
+
+  
+  <rect x="612" y="30" width="194" height="30" rx="15" fill="#10B981" fill-opacity="0.14" stroke="#10B981" stroke-opacity="0.45" stroke-width="1" />
+  <circle cx="630" cy="45" r="4.5" fill="#10B981" />
+  <text x="642" y="49" fill="#34D399" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="11" font-weight="700" letter-spacing="0.5">OPEN FOR ROLES &amp; COLLABS</text>
+
+  
+  <rect x="34" y="114" width="182" height="84" rx="12" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.09" />
+  <text x="50" y="146" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="22" font-weight="800">100+</text>
+  <text x="50" y="168" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="12" font-weight="600">AI Tools Mastered</text>
+  <text x="50" y="185" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="10.5">LLMs, Image &amp; Video Gen</text>
+
+  
+  <rect x="230" y="114" width="182" height="84" rx="12" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.09" />
+  <text x="246" y="146" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="22" font-weight="800">~85%</text>
+  <text x="246" y="168" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="12" font-weight="600">Faster Workflows</text>
+  <text x="246" y="185" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="10.5">Offline AI &amp; Quality Apps</text>
+
+  
+  <rect x="426" y="114" width="182" height="84" rx="12" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.09" />
+  <text x="442" y="146" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="22" font-weight="800">100+ WPM</text>
+  <text x="442" y="168" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="12" font-weight="600">Typing Speed</text>
+  <text x="442" y="185" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="10.5">Rapid Code &amp; Content</text>
+
+  
+  <rect x="622" y="114" width="184" height="84" rx="12" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.09" />
+  <text x="638" y="146" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="19" font-weight="800">Google Cloud</text>
+  <text x="638" y="168" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="12" font-weight="600">GenAI &amp; LLM Badges</text>
+  <text x="638" y="185" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="10.5">E-Max Design &amp; Dev</text>
+
+  
+  <line x1="34" y1="214" x2="806" y2="214" stroke="#FFFFFF" stroke-opacity="0.08" />
+  <text x="34" y="234" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="11.5">Building Zero-Cost Industrial Software  •  Real-Time GPS  •  Offline AI  •  Digital Media</text>
+  <text x="748" y="234" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="11.5" font-weight="600">India 🇮🇳</text>
+</svg>
