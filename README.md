@@ -1,4 +1,3 @@
-<!-- ==================== CSS-POWERED BENTO HERO CARD ==================== -->
 <div align="center">
   <img src="./profile-card.svg" width="100%" alt="Maheshwar Kumar Profile Card" />
 </div>
