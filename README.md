@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maheshwarofficial/maheshwarofficial/main/profile-card.svg?v=2" width="100%" alt="Maheshwar Kumar Profile Card" />
+  <img src="https://raw.githubusercontent.com/maheshwarofficial/maheshwarofficial/main/profile-card.svg?sanitize=true" width="100%" alt="Maheshwar Kumar Profile Card" />
 </div>
-<br/>
 
 <!-- ==================== SOCIAL & PORTFOLIO LINKS ==================== -->
 <div align="center">
