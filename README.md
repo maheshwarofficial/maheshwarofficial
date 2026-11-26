@@ -1,8 +1,6 @@
-<!-- ==================== HERO BENTO CARD ==================== -->
 <div align="center">
-  <img src="./profile-card.svg" width="100%" alt="Maheshwar Kumar Profile Card" />
+  <img src="https://raw.githubusercontent.com/maheshwarofficial/maheshwarofficial/main/profile-card.svg?v=2" width="100%" alt="Maheshwar Kumar Profile Card" />
 </div>
-
 <br/>
 
 <!-- ==================== SOCIAL & PORTFOLIO LINKS ==================== -->
