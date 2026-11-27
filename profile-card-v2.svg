@@ -1,124 +1,125 @@
-<svg width="840" height="275" viewBox="0 0 840 275" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="300" viewBox="0 0 900 300" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     
-    <linearGradient id="bg" x1="0" y1="0" x2="840" y2="275" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="300" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#050814" />
-      <stop offset="50%" stop-color="#0B1120" />
-      <stop offset="100%" stop-color="#111C38" />
+      <stop offset="52%" stop-color="#0B1120" />
+      <stop offset="100%" stop-color="#072227" />
     </linearGradient>
 
     
-    <linearGradient id="topHighlight" x1="120" y1="0" x2="720" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="topHighlight" x1="120" y1="0" x2="780" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#38BDF8" stop-opacity="0" />
-      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.85" />
-      <stop offset="100%" stop-color="#818CF8" stop-opacity="0" />
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0" />
     </linearGradient>
 
     
-    <linearGradient id="borderGrad" x1="0" y1="0" x2="840" y2="275" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.4" />
+    <linearGradient id="borderGrad" x1="0" y1="0" x2="900" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.45" />
       <stop offset="50%" stop-color="#818CF8" stop-opacity="0.25" />
-      <stop offset="100%" stop-color="#10B981" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0.45" />
     </linearGradient>
 
     
-    <linearGradient id="nameGrad" x1="34" y1="0" x2="380" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="nameGrad" x1="36" y1="0" x2="430" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#FFFFFF" />
       <stop offset="65%" stop-color="#E0F2FE" />
       <stop offset="100%" stop-color="#38BDF8" />
     </linearGradient>
 
     
-    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(760 35) rotate(90) scale(160 220)">
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(810 40) rotate(90) scale(170 240)">
       <stop stop-color="#0EA5E9" stop-opacity="0.22" />
       <stop offset="1" stop-color="#0EA5E9" stop-opacity="0" />
     </radialGradient>
-    <radialGradient id="glowPurple" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(90 250) rotate(90) scale(140 200)">
-      <stop stop-color="#6366F1" stop-opacity="0.18" />
-      <stop offset="1" stop-color="#6366F1" stop-opacity="0" />
+    <radialGradient id="glowEmerald" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(100 270) rotate(90) scale(150 230)">
+      <stop stop-color="#10B981" stop-opacity="0.18" />
+      <stop offset="1" stop-color="#10B981" stop-opacity="0" />
     </radialGradient>
 
     
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1" />
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1" />
     </pattern>
 
-    
     <clipPath id="cardClip">
-      <rect x="1" y="1" width="838" height="273" rx="18" />
+      <rect x="1" y="1" width="898" height="298" rx="20" />
     </clipPath>
   </defs>
 
   
   <g clip-path="url(#cardClip)">
-    <rect x="1" y="1" width="838" height="273" rx="18" fill="url(#bg)" />
-    <rect x="1" y="1" width="838" height="273" fill="url(#grid)" />
-    <rect x="1" y="1" width="838" height="273" fill="url(#glowCyan)" />
-    <rect x="1" y="1" width="838" height="273" fill="url(#glowPurple)" />
+    <rect x="1" y="1" width="898" height="298" rx="20" fill="url(#bg)" />
+    <rect x="1" y="1" width="898" height="298" fill="url(#grid)" />
+    <rect x="1" y="1" width="898" height="298" fill="url(#glowCyan)" />
+    <rect x="1" y="1" width="898" height="298" fill="url(#glowEmerald)" />
   </g>
 
   
-  <rect x="1" y="1" width="838" height="273" rx="18" stroke="url(#borderGrad)" stroke-width="1.5" />
-  <rect x="140" y="1" width="560" height="2" fill="url(#topHighlight)" />
+  <rect x="1" y="1" width="898" height="298" rx="20" stroke="url(#borderGrad)" stroke-width="1.5" />
+  <rect x="150" y="1" width="600" height="2.5" fill="url(#topHighlight)" />
 
   
-  <text x="34" y="54" fill="url(#nameGrad)" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif" font-size="31" font-weight="800" letter-spacing="-0.6">MAHESHWAR KUMAR</text>
-  <text x="34" y="79" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Full-Stack Developer  •  AI &amp; Prompt Engineer  •  UI/UX &amp; Video Creator</text>
+  <text x="36" y="56" fill="url(#nameGrad)" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.6">MAHESHWAR KUMAR</text>
+  <text x="36" y="83" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Arial, sans-serif" font-size="14" font-weight="500">Full-Stack Software Builder  •  AI &amp; Prompt Engineer  •  UI/UX &amp; Media Creator</text>
 
   
-  <rect x="594" y="28" width="212" height="30" rx="15" fill="#10B981" fill-opacity="0.12" stroke="#10B981" stroke-opacity="0.45" stroke-width="1" />
-  <circle cx="613" cy="43" r="4" fill="#10B981">
+  <rect x="614" y="28" width="250" height="32" rx="16" fill="#10B981" fill-opacity="0.13" stroke="#10B981" stroke-opacity="0.5" stroke-width="1.2" />
+  <circle cx="634" cy="44" r="4.5" fill="#10B981">
     <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
   </circle>
-  <circle cx="613" cy="43" r="4" fill="#10B981" fill-opacity="0.4">
-    <animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite" />
+  <circle cx="634" cy="44" r="4.5" fill="#10B981" fill-opacity="0.4">
+    <animate attributeName="r" values="4.5;9;4.5" dur="2s" repeatCount="indefinite" />
     <animate attributeName="opacity" values="0.6;0;0.6" dur="2s" repeatCount="indefinite" />
   </circle>
-  <text x="626" y="47" fill="#34D399" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.6">OPEN FOR ROLES &amp; COLLABS</text>
+  <text x="648" y="48.5" fill="#34D399" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="11" font-weight="700" letter-spacing="0.5">OPEN FOR ROLES &amp; CUSTOM APPS</text>
 
   
-  <rect x="34" y="92" width="88" height="20" rx="6" fill="#38BDF8" fill-opacity="0.1" stroke="#38BDF8" stroke-opacity="0.25" />
-  <text x="44" y="106" fill="#7DD3FC" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="10" font-weight="600">Web &amp; Apps</text>
+  <g font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="10.5" font-weight="600">
+    <rect x="36" y="98" width="128" height="22" rx="7" fill="#38BDF8" fill-opacity="0.12" stroke="#38BDF8" stroke-opacity="0.3" />
+    <text x="48" y="113" fill="#7DD3FC">Zero-Cost Systems</text>
 
-  <rect x="130" y="92" width="82" height="20" rx="6" fill="#818CF8" fill-opacity="0.12" stroke="#818CF8" stroke-opacity="0.28" />
-  <text x="141" y="106" fill="#A5B4FC" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="10" font-weight="600">Offline AI</text>
+    <rect x="174" y="98" width="114" height="22" rx="7" fill="#10B981" fill-opacity="0.12" stroke="#10B981" stroke-opacity="0.3" />
+    <text x="186" y="113" fill="#6EE7B7">Sheet &amp; SQLite DB</text>
 
-  <rect x="220" y="92" width="106" height="20" rx="6" fill="#F472B6" fill-opacity="0.1" stroke="#F472B6" stroke-opacity="0.25" />
-  <text x="230" y="106" fill="#F9A8D4" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="10" font-weight="600">Design &amp; Video</text>
+    <rect x="298" y="98" width="108" height="22" rx="7" fill="#818CF8" fill-opacity="0.14" stroke="#818CF8" stroke-opacity="0.32" />
+    <text x="311" y="113" fill="#A5B4FC">Offline &amp; Gen AI</text>
 
-  <rect x="334" y="92" width="122" height="20" rx="6" fill="#34D399" fill-opacity="0.1" stroke="#34D399" stroke-opacity="0.25" />
-  <text x="344" y="106" fill="#6EE7B7" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="10" font-weight="600">Quality (IQC/OQC)</text>
-
-  
-  <rect x="34" y="128" width="182" height="90" rx="13" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.09" />
-  <rect x="50" y="128" width="44" height="2.5" rx="1.25" fill="#38BDF8" />
-  <text x="50" y="162" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="24" font-weight="800">100+</text>
-  <text x="50" y="184" fill="#F1F5F9" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="12" font-weight="600">AI Tools Mastered</text>
-  <text x="50" y="202" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="10.5">LLMs, Image &amp; Video Gen</text>
+    <rect x="416" y="98" width="112" height="22" rx="7" fill="#F472B6" fill-opacity="0.12" stroke="#F472B6" stroke-opacity="0.3" />
+    <text x="428" y="113" fill="#F9A8D4">UI/UX &amp; Creator</text>
+  </g>
 
   
-  <rect x="230" y="128" width="182" height="90" rx="13" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.09" />
-  <rect x="246" y="128" width="44" height="2.5" rx="1.25" fill="#10B981" />
-  <text x="246" y="162" fill="#34D399" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="24" font-weight="800">~85%</text>
-  <text x="246" y="184" fill="#F1F5F9" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="12" font-weight="600">Faster Workflows</text>
-  <text x="246" y="202" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="10.5">Zero-Cost Industrial Apps</text>
+  <rect x="36" y="138" width="196" height="98" rx="14" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.09" />
+  <rect x="52" y="138" width="48" height="3" rx="1.5" fill="#10B981" />
+  <text x="52" y="174" fill="#34D399" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="25" font-weight="800">₹0 Cost</text>
+  <text x="52" y="198" fill="#F1F5F9" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="12.5" font-weight="600">Production Apps</text>
+  <text x="52" y="216" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="11">Billing, Fleet &amp; SaaS Tools</text>
 
   
-  <rect x="426" y="128" width="182" height="90" rx="13" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.09" />
-  <rect x="442" y="128" width="44" height="2.5" rx="1.25" fill="#818CF8" />
-  <text x="442" y="162" fill="#A5B4FC" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="23" font-weight="800">100+ WPM</text>
-  <text x="442" y="184" fill="#F1F5F9" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="12" font-weight="600">English Typing</text>
-  <text x="442" y="202" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="10.5">Rapid Code &amp; Execution</text>
+  <rect x="246" y="138" width="196" height="98" rx="14" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.09" />
+  <rect x="262" y="138" width="48" height="3" rx="1.5" fill="#38BDF8" />
+  <text x="262" y="174" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="25" font-weight="800">100+</text>
+  <text x="262" y="198" fill="#F1F5F9" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="12.5" font-weight="600">AI Tools Mastered</text>
+  <text x="262" y="216" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="11">LLMs, Prompt Engg &amp; GenAI</text>
 
   
-  <rect x="622" y="128" width="184" height="90" rx="13" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.09" />
-  <rect x="638" y="128" width="44" height="2.5" rx="1.25" fill="#F59E0B" />
-  <text x="638" y="161" fill="#FBBF24" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="19.5" font-weight="800">Google Cloud</text>
-  <text x="638" y="184" fill="#F1F5F9" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="12" font-weight="600">GenAI &amp; LLM Badges</text>
-  <text x="638" y="202" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="10.5">E-Max Design &amp; Dev</text>
+  <rect x="456" y="138" width="196" height="98" rx="14" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.09" />
+  <rect x="472" y="138" width="48" height="3" rx="1.5" fill="#818CF8" />
+  <text x="472" y="174" fill="#A5B4FC" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="25" font-weight="800">~85%</text>
+  <text x="472" y="198" fill="#F1F5F9" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="12.5" font-weight="600">Faster Workflows</text>
+  <text x="472" y="216" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="11">Excel, SQLite &amp; Automation</text>
 
   
-  <line x1="34" y1="236" x2="806" y2="236" stroke="#FFFFFF" stroke-opacity="0.08" />
-  <text x="34" y="257" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="11.5" font-weight="500">mrmaheshwar.vercel.app   •   GitHub   •   LinkedIn   •   Behance   •   YouTube</text>
-  <text x="748" y="257" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="11.5" font-weight="600">India 🇮🇳</text>
+  <rect x="666" y="138" width="198" height="98" rx="14" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.09" />
+  <rect x="682" y="138" width="48" height="3" rx="1.5" fill="#F59E0B" />
+  <text x="682" y="174" fill="#FBBF24" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="23" font-weight="800">100+ WPM</text>
+  <text x="682" y="198" fill="#F1F5F9" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="12.5" font-weight="600">Google Cloud &amp; E-Max</text>
+  <text x="682" y="216" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="11">GenAI Badges • Fast Execution</text>
+
+  
+  <line x1="36" y1="256" x2="864" y2="256" stroke="#FFFFFF" stroke-opacity="0.08" />
+  <text x="36" y="279" fill="#94A3B8" font-family="Consolas, monospace" font-size="12">mrmaheshwar.vercel.app  •  Hotels, Schools &amp; Business Automation  •  WhatsApp: +91 87098 28459</text>
+  <text x="802" y="279" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="12" font-weight="700">India</text>
 </svg>
