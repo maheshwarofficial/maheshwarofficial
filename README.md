@@ -1,6 +1,6 @@
 <!-- ==================== V3 PURE VECTOR PROFILE CARD ==================== -->
 <div align="center">
-  <img src="profile-card-v3.svg" width="100%" alt="Maheshwar Kumar — Full-Stack Developer & AI Engineer" />
+  <img src="profile-card-v2.svg" width="100%" alt="Maheshwar Kumar — Full-Stack Developer & AI Engineer" />
 </div>
 
 <br/>
