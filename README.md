@@ -6,8 +6,8 @@
 <br/>
 <div align="center">
   <h3>🎥 Watch My GitHub Profile & Projects Walkthrough</h3>
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" width="75%" alt="Watch Full Project Walkthrough on YouTube" />
+  <a href="https://youtu.be/ovF7cL0FM10" target="_blank">
+    <img src="https://img.youtube.com/vi/ovF7cL0FM10/maxresdefault.jpg" width="75%" alt="Watch Full Project Walkthrough on YouTube" />
   </a>
   <br/>
   <sub><i>Click the thumbnail above to watch the full demo on YouTube</i></sub>
